@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=District()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ District\ (without\ parameters)\r\n\ \r\n\ \r\n
+comment1.params=districtName
+comment1.target=District(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ District\r\n\ \r\n\ @param\ takes\ a\ single\ String\ parameter\ of\ the\ district\ name\r\n
+comment2.params=
+comment2.target=java.lang.String\ getDistrictName()
+comment2.text=\r\n\ method\ to\ return\ district\ name\r\n\ \r\n\ @return\ returns\ the\ district\ name\r\n\ \r\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getDistrictsIncidents()
+comment3.text=\r\n\ method\ to\ return\ ArrayList\ of\ Incidents\ in\ district\r\n\ \r\n\ @return\ return\ an\ arraylist\ of\ all\ incidents\ in\ the\ district\r\n
+comment4.params=Incid
+comment4.target=void\ addIncident(Incident)
+comment4.text=\r\n\ method\ to\ add\ an\ Incident\ to\ districtsIncidents\ ArrayList\r\n\ \r\n\ @param\ takes\ a\ single\ parameter\ of\ an\ incident\r\n\r\n
+comment5.params=
+comment5.target=Incident\ highestValueIncident()
+comment5.text=\r\n\ method\ to\ return\ Incident\ with\ highest\ value\ recorded\ in\ the\ district\r\n\ \r\n\ @return\ returns\ an\ incident\ which\ contains\ the\ highest\ value\ recorded\ in\ district\r\n\r\n
+comment6.params=year
+comment6.target=int\ averageDistValueInYear(int)
+comment6.text=\r\n\ method\ to\ return\ average\ incident\ value\ in\ a\ district\ in\ a\ given\ year\r\n\ \r\n\ @param\ takes\ a\ single\ parameter\ of\ the\ year\ in\ question\r\n\ \r\n\ @returns\ an\ int\ of\ the\ averge\ incident\ value\ for\ the\ district\r\n
+comment7.params=amount
+comment7.target=java.util.ArrayList\ allIncidentsDistValuesGreaterThan(int)
+comment7.text=\r\n\ method\ to\ return\ all\ incidents\ with\ a\ value\ greater\ than\ a\ given\ amount\r\n\ \r\n\ @param\ takes\ a\ single\ int\ parameter\ of\ the\ amount\ in\ question\r\n\ \r\n\ @return\ returns\ an\ arraylist\ of\ all\ incidents\ in\ district\ with\ a\ value\ higher\ than\ the\ amount\ specified\r\n\ \r\n
+numComments=8

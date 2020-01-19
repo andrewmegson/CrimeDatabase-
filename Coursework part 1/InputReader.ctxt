@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=InputReader()
+comment0.text=\r\n\ Creates\ an\ input\ reader\ than\ provides\ text\ input\ to\ the\ console\r\n
+comment1.params=
+comment1.target=java.lang.String\ getInput()
+comment1.text=\r\n\ Reads\ a\ line\ of\ text\ from\ text\ terminal\ and\ return\ it\ as\ a\ formatted\ string\ (trimmed,\ lowercase)\r\n\r\n\ @return\ \ A\ string\ formatted\ so\ it\ is\ trimmed\ and\ in\ lowercase\r\n
+numComments=2

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Incident()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Incident\ without\ any\ parameters\r\n\ \r\n\r\n
+comment1.params=value\ postcode\ month\ year\ district
+comment1.target=Incident(int,\ java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Incident\ without\ any\ parameters\r\n\ \r\n\ @param\ creates\ an\ incident\ with\ parameters\ of;\ value,\ postocde,\ month\ (in\ words),\ year\ and\ district.\r\n
+comment2.params=
+comment2.target=int\ getValue()
+comment2.text=\r\n\ method\ to\ return\ Incident\ Value\r\n\ \r\n\ \r\n\ @return\ returns\ the\ incident\ value\ \r\n\r\n
+comment3.params=
+comment3.target=java.lang.String\ getPostcode()
+comment3.text=\ method\ to\ return\ Incident\ Postcode\r\n\ \r\n\ \r\n\ @returns\ the\ incident\ postcode\r\n
+comment4.params=
+comment4.target=java.lang.String\ getMonth()
+comment4.text=\ method\ to\ return\ Incident\ Month\r\n\ \r\n\ \r\n\ @returns\ the\ incident\ month\r\n
+comment5.params=
+comment5.target=int\ getYear()
+comment5.text=\ method\ to\ return\ Incident\ Year\r\n\ \r\n\ \r\n\ @returns\ the\ incident\ year\r\n
+comment6.params=
+comment6.target=java.lang.String\ getDistrict()
+comment6.text=\ method\ to\ return\ Incidents\ District\r\n\ \r\n\ \r\n\ @returns\ the\ incident\ gistrict\r\n
+numComments=7
